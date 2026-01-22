@@ -73,6 +73,9 @@ Build a comprehensive analytics dashboard to:
 5. Product Performance** - Top products by revenue with detailed metrics
 <img width="1423" height="816" alt="online store1" src="https://github.com/user-attachments/assets/8e585eb9-8a23-4709-ae03-ed743995b7ac" />
 
+
+.**Dashboard_Interactivity.gif**
+
    ![Online store](https://github.com/user-attachments/assets/befa5523-5555-4263-8e8c-40aaa59f2999)
 
 
@@ -99,4 +102,56 @@ COUNT(DISTINCT(customer_id)) AS Customer_Count
 FROM dbo.retail_store
 GROUP BY Country
 ```
+View all SQL queries &#8595;
 
+
+.https://github.com/Saleh-MH4/Online-Store-Analysis-/blob/b56ece5e9946517eef56ac699db8c58c935e7022/online%20store%20sql.sql
+
+
+Key Findings & Business Insights
+
+### 📈 Business Performance
+- **Revenue:** £19.01M generated over 2-year period
+- **Growth:** Consistent order volume growth from Q4 2009 through 2011
+- **Customer Base:** 5,942 active customers across 43 countries
+
+### 🌍 Geographic Distribution
+- **European Dominance:** 60%+ of revenue from European countries
+- **Top Market:** United Kingdom (highest revenue concentration)
+- **Opportunity:** Underserved markets in Americas and Asia-Pacific
+- **Risk:** High geographic concentration - diversification recommended
+
+
+## 🛠️ Technical Skills Demonstrated
+
+### SQL
+✅ Complex SELECT queries with aggregations  
+✅ GROUP BY and HAVING clauses  
+✅ Date functions (YEAR, MONTH, FORMAT)  
+✅ UNION operations for data consolidation
+
+### Power BI
+✅ Data connectivity (SQL Server integration)  
+✅ Data modeling and relationships  
+✅ DAX measure creation  
+✅ Interactive visualizations (maps, charts, tables)  
+✅ Slicer implementation  
+✅ Dashboard design and layout  
+
+### Excel
+✅ Data cleaning and preparation  
+✅ Data validation  
+✅ Worksheet consolidation
+
+### Business Analysis
+✅ KPI selection and definition  
+✅ Trend identification  
+✅ Insight generation  
+✅ Strategic recommendations
+
+
+## 👤 Contact
+
+**[ٍSaleh Misfir]**  
+📧Email: csusbhelz@gmail.com 
+💼 [LinkedIn](https://www.linkedin.com/in/saleh-m-708a8320a/) 
