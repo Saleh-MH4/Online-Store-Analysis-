@@ -1,14 +1,14 @@
 # Online-Store-Analysis-
 Analyze online store performance using multiple tools
 
-# 🛒 E-Commerce Sales Analytics Dashboard
+#  E-Commerce Sales Analytics Dashboard
 
 > Interactive Power BI dashboard analyzing online retail performance across 43 countries to identify customer behavior patterns and revenue optimization opportunities.
 
 
 ---
 
-🎯 Project Overview
+ Project Overview
 
 -Business Context: 
 Analysis of a UK-based online retail company specializing in unique all-occasion gifts, serving both wholesale and retail customers globally.
@@ -31,7 +31,7 @@ Build a comprehensive analytics dashboard to:
 
 4- Optimize product catalog based on performance
 
- 🔍 Data Analysis Process
+  Data Analysis Process
 
 -Data Source & Collection
 
@@ -53,7 +53,7 @@ Build a comprehensive analytics dashboard to:
 
 ---
 
- 📊 Dashboard Features
+  Dashboard Features
 
 -- Key Performance Indicators (KPIs)
 - Total Revenue: £19.01M
@@ -81,7 +81,7 @@ Build a comprehensive analytics dashboard to:
 
 
 
-🔍 **SQL Analysis**:
+ **SQL Analysis**:
 **4 Analytical Queries:**
 1. Overall business KPIs
 2. Monthly revenue trends
@@ -110,19 +110,19 @@ View all SQL queries &#8595;
 
 Key Findings & Business Insights
 
-### 📈 Business Performance
+###  Business Performance
 - **Revenue:** £19.01M generated over 2-year period
 - **Growth:** Consistent order volume growth from Q4 2009 through 2011
 - **Customer Base:** 5,942 active customers across 43 countries
 
-### 🌍 Geographic Distribution
+###  Geographic Distribution
 - **European Dominance:** 60%+ of revenue from European countries
 - **Top Market:** United Kingdom (highest revenue concentration)
 - **Opportunity:** Underserved markets in Americas and Asia-Pacific
 - **Risk:** High geographic concentration - diversification recommended
 
 
-## 🛠️ Technical Skills Demonstrated
+##  Technical Skills Demonstrated
 
 ### SQL
 ✅ Complex SELECT queries with aggregations  
@@ -150,8 +150,5 @@ Key Findings & Business Insights
 ✅ Strategic recommendations
 
 
-## 👤 Contact
+##  Contact
 
-**[ٍSaleh Misfir]**  
-📧Email: csusbhelz@gmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/saleh-m-708a8320a/) 
